@@ -1,0 +1,22 @@
+Title: $10, Artist: Hitchhiker, Genre: Electronic, Year: 2016, Timesplayed: 183
+Title: Havana, Artist: Camila Cabello, Genre: R&B, Year: 2017, Timesplayed: 324
+Title: Cassidy, Artist: Grateful Dead, Genre: Rock, Year: 1972, Timesplayed: 123
+Title: 50 ways, Artist: Paul Simon, Genre: Soft Rock, Year: 1975, Timesplayed: 199
+Title: Hurt, Artist: Nine Inch Nails, Genre: Industrial Rock, Year: 1995, Timesplayed: 257
+Title: Silence, Artist: Delerium, Genre: Electronic, Year: 1999, Timesplayed: 134
+Title: Hurt, Artist: Johnny Cash, Genre: Soft Rock, Year: 2002, Timesplayed: 392
+Title: Watercolour, Artist: Pendulum, Genre: Electronic, Year: 2010, Timesplayed: 155
+Title: The Outsider, Artist: A Perfect Circle, Genre: Alternative Rock, Year: 2004, Timesplayed: 312
+Title: With a Little Help from My Friends, Artist: The Beatles, Genre: Rock, Year: 1967, Timesplayed: 168
+Title: Come Together, Artist: The Beatles, Genre: Blues rock, Year: 1968, Timesplayed: 173
+Title: Come Together, Artist: Ike & Tina Turner, Genre: Rock, Year: 1970, Timesplayed: 165
+Title: With a Little Help from My Friends, Artist: Joe Cocker, Genre: Rock, Year: 1968, Timesplayed: 46
+Title: Immigrant Song, Artist: Karen O, Genre: Industrial Rock, Year: 2011, Timesplayed: 12
+Title: Breathe, Artist: The Prodigy, Genre: Electronic, Year: 1996, Timesplayed: 337
+Title: What's Going On, Artist: Gaye, Genre: R&B, Year: 1971, Timesplayed: 420
+Title: Hallucinate, Artist: Dua Lipa, Genre: Pop, Year: 2020, Timesplayed: 75
+Title: Walk Me Home, Artist: P!nk, Genre: Pop, Year: 2019, Timesplayed: 459
+Title: I am not a woman, I'm a god, Artist: Halsey, Genre: Alternative Rock, Year: 2021, Timesplayed: 384
+Title: Pasos de cero, Artist: Pablo Alborán, Genre: Latin, Year: 2014, Timesplayed: 117
+Title: Smooth, Artist: Santana, Genre: Latin, Year: 1999, Timesplayed: 244
+Title: Immigrant song, Artist: Led Zeppelin, Genre: Rock, Year: 1970, Timesplayed: 484
